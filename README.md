@@ -63,7 +63,7 @@ Clients struggle with:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/pixel-Neko/Favork-web.git
-cd freela
+cd Favork-web
 2️⃣ Install Dependencies
 bash
 Copy code
@@ -105,3 +105,4 @@ Create your feature branch (git checkout -b feature-name)
 Commit changes and push (git push origin feature-name)
 
 Open a Pull Request 🚀
+
